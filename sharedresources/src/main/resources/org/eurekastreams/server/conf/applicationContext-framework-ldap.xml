@@ -44,6 +44,7 @@
         <property name="orgAttrib" value="none" />
         <property name="titleAttrib" value="none" />
         <property name="fullNameAttrib" value="none" />
+        <property name="companyAttrib" value="none" />
         <property name="emailAttrib" value="none" />
         <property name="supportEmail" value="${eureka.mail.support.emailaddress}" />
     </bean>
